@@ -1,0 +1,18 @@
+<br />
+<b>Warning</b>:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>171</b><br />
+<br />
+<b>Warning</b>:  imagecreatefromjpeg(): '../medias/52/88076/ss(wor).jpg' is not a valid JPEG file in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>171</b><br />
+<br />
+<b>Warning</b>:  imagesx() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>178</b><br />
+<br />
+<b>Warning</b>:  imagesy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>179</b><br />
+<br />
+<b>Warning</b>:  imagecreatetruecolor(): Invalid image dimensions in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>202</b><br />
+<br />
+<b>Warning</b>:  imagecopyresampled() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>212</b><br />
+<br />
+<b>Warning</b>:  imagepng() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>221</b><br />
+<br />
+<b>Warning</b>:  imagedestroy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>232</b><br />
+<br />
+<b>Warning</b>:  imagedestroy() expects parameter 1 to be resource, bool given in <b>/var/www/html/scraper/api2/mediaJeu.php</b> on line <b>233</b><br />
